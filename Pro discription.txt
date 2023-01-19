@@ -1,12 +1,1 @@
 
-
-VC++ document type{
-  dsw developer studio workspace  : heightest level configure doc,code hole workspace configure information;
-  dsp developer studio project    : configure doc,code hole project configure information;
-  opt : configure cooperatively with doc.dsw or doc.dsp, code machine hardware informatio;
-  clw : code information relatClassWizard 
-}
-
-difference betweeen workspace & project
-
-ClassWizard: wizard  app class. VS AppWizard use to build app frame; 
